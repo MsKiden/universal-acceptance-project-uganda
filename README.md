@@ -35,10 +35,11 @@ You are invited to contribute to this collection of toolkit, reports, papers and
 Netlify......
 
 **The team**
-* [Lillian Achom](lillianachom.com/)
+* Sarah Kiden is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her research, co-designing Internet of Things (IoT) with communities, is one of the projects under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
+* * [Lillian Achom](lillianachom.com/)
 * Mutegeki Cliff Agaba
 * Esther Patricia Akello
-* Sarah Kiden
+
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
