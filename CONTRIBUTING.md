@@ -17,7 +17,7 @@ This document (CONTRIBUTING.md) is a set of guidelines for contributing to the p
 Please take a look at the project [Code of Conduct](), which outlines our expectations for participants within the project. 
 
 ## What we are working on
-To get started, take a look at the issues in our [milestones](). Find an interesting issue to contribute to. 
+To get started, take a look at the issues in our [milestones](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true). Find an interesting issue to contribute to. 
 
 Since many people use the Internet, anyone can be part of the project. 
 + Governments, policy and decision makers
