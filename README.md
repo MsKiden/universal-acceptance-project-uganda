@@ -1,5 +1,5 @@
 # Universal Acceptance Project in Uganda
-Thank you for your interest in contributing to this project. 
+Thank you for your interest in contributing to this project. 👏🏾 🎊 🎉
 
 * [Aims and Objectives](#aims-and-objectives)
 * [Background](#background)
