@@ -1,19 +1,19 @@
 # Universal Acceptance Project in Uganda
 Thank you for your interest in contributing to this project. 
 
-## Aims and Objectives
-Our project would like to contribute to UA efforts, from a Ugandan and East African perspective by creating awareness and sharing technical training content with policy/decision makers, software developers, website owners, researchers, technology enthusiasts, Internet end users, open source communities, among others, to understand UA and why it matters. At the intersection of UA and data science, we hope to work with the open data community to build a repository of resources to promote the adoption of new Application Programming Interfaces (APIs) and updating existing ones to allow more language scripts.  
-
-Our aim is to develop a toolkit that can support these efforts and write a policy brief that will be used as an advocacy tool to inform policy. We hope that this can influence national and industry digital inclusion projects to promote local content and multiple language scripts. 
-
-This README explains the Universal Acceptance Project in Uganda, what inspired us to start and how you can get involved.
-
+* [Aims and Objectives](#aims-and-objectives)
 * [Background](#background)
 * [Why Univeral Acceptance](#why-universal-acceptance)
 * [How you can contribute](#how-you-can-contribute)
 * [Resources](#resources)
 * [About Us and Contacts](#about-us-and-contacts)
 
+## Aims and Objectives
+Our project would like to contribute to UA efforts, from a Ugandan and East African perspective by creating awareness and sharing technical training content with policy/decision makers, software developers, website owners, researchers, technology enthusiasts, Internet end users, open source communities, among others, to understand UA and why it matters. At the intersection of UA and data science, we hope to work with the open data community to build a repository of resources to promote the adoption of new Application Programming Interfaces (APIs) and updating existing ones to allow more language scripts.  
+
+Our aim is to develop a toolkit that can support these efforts and write a policy brief that will be used as an advocacy tool to inform policy. We hope that this can influence national and industry digital inclusion projects to promote local content and multiple language scripts. 
+
+This README explains the Universal Acceptance Project in Uganda, what inspired us to start and how you can get involved.
 
 ## Background
 For any device to communicate with another on the Internet, it needs a unique identifier - a name or an Internet Protocol (IP) address. The Internet Corporation for Assigned Names and Numbers (ICANN) community develops policies that allow these identifiers to work well. Until 2010, the global Domain Name System (DNS) only allowed Top Level Domains (TLDs) which are in the Latin script. The DNS then expanded to include Internationalized Domain Names (IDNs) for country code Top Level Domains (ccTLDs) and domain names for other TLDs. However, many language scripts and writing styles are used around the world, many of which are currently not supported by web browsers, email clients and software applications. This is where Universal Acceptance (UA) comes in.
