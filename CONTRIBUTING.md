@@ -4,7 +4,7 @@ Thank you once again for your interest in joining this project! 👏🏾 🎊 �
 
 The [UA in Uganda Project](https://github.com/MsKiden/universal-acceptance-project-uganda) aims to develop a toolkit that can support these efforts and write a policy brief that will be used as an advocacy tool to inform policy. We hope that this can influence national and industry digital inclusion projects to promote local content and multiple language scripts. 
 
-This document (CONTRIBUTING.md) is a set of guidelines for contributing to the project on [GitHub](https://github.com/MsKiden/universal-acceptance-project-uganda). These are guidelines, not rules, to make it easy for anyone to get involved.
+This document (CONTRIBUTING.md) is a set of guidelines for contributing to the project. These are guidelines, not rules, to make it easy for anyone to get involved.
 
 * [Participant guidelines](#participant-guidelines)
 * [What we are working on](#what-we-are-working-on)
@@ -14,7 +14,7 @@ This document (CONTRIBUTING.md) is a set of guidelines for contributing to the p
 * [Acknowledgements](#acknowledgements)
 
 ## Participant guidelines
-Please take a look at the project [Code of Conduct](), which outlines our expectations for participants within the project. 
+Please take a look at the project [Code of Conduct](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/CODE_OF_CONDUCT.md), which outlines our expectations for participants within the project. 
 
 ## What we are working on
 To get started, take a look at the issues in our [milestones](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true). Find an interesting issue to contribute to. 
