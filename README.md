@@ -36,7 +36,7 @@ Netlify......
 
 **The team**
 * Sarah Kiden is a public interest technologist and researcher, working at the intersection of technology, design and communities. Her research, co-designing Internet of Things (IoT) with communities, is one of the projects under Open Design of Trusted Things (OpenDoTT), a joint programme between Northumbria University and Mozilla. 
-* * [Lillian Achom](lillianachom.com/)
+* [Lillian Achom](lillianachom.com/)
 * Mutegeki Cliff Agaba
 * Esther Patricia Akello
 
