@@ -11,6 +11,7 @@ This README explains the Universal Acceptance Project in Uganda, what inspired u
 * [Background](#background)
 * [Why Univeral Acceptance](#why-universal-acceptance)
 * [How you can contribute](#how-you-can-contribute)
+* [Resources](#resources)
 * [About Us and Contacts](#about-us-and-contacts)
 
 
@@ -27,6 +28,9 @@ There are over 40 languages spoken in Uganda and over 140 spoken in East and Cen
 Under contruction
 Please take a look at our resources:
 * [Open Canvas]() to give you an overview of the project
+
+## Resources
+Under construction
 
 ## About Us and Contacts
 Access Plus
