@@ -30,15 +30,15 @@ Please take a look our [Open Canvas](https://github.com/MsKiden/universal-accept
 You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](). 
 
 ## About Us and Contacts
-Access Plus
+[Access Plus](https://accesspluss.org/) is a Ugandan based organisation that aims at improving livelihoods by promoting inclusive access to and use of Information and Communication Technologies (ICTs) and the Internet to contribute to solving economic barriers. We do this by improving access to knowledge, information exchange and building technical capacity to use these technologies.  
 
-Netlify
+Netlify......
 
 **The team**
-* Lillian
-* Cliff
-* Esther Patricia
-* Sarah
+* [Lillian Achom](lillianachom.com/)
+* Mutegeki Cliff Agaba
+* Esther Patricia Akello
+* Sarah Kiden
 
 -------------
 Please feel free to contribute to the project and reach out on email: project(dash)team(at)accesspluss(dot)org. We look forward to working with you! 
