@@ -26,12 +26,10 @@ According to the Universal Acceptance Steering Group (UASG) country readiness re
 There are over 40 languages spoken in Uganda and over 140 spoken in East and Central Africa. Language has been named as one of the barriers of connecting the unconnected yet it would give the world’s population an opportunity to access the Internet. Local language domain names can help to support the creation and access to local language content and email addresses. 
 
 ## How you can contribute
-Please take a look at our resources:
-* [Open Canvas](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/Open%20Canvas%20-%20UA%20in%20Uganda%20(Feb%202021).pdf) to give you an overview of the project
-* Reports, papers and other resources from indivdduals, ICANN and other organisations
+Please take a look our [Open Canvas](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/Open%20Canvas%20-%20UA%20in%20Uganda%20(Feb%202021).pdf) to give you an overview of the project. 
 
 ## Resources
-Under construction
+You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](). 
 
 ## About Us and Contacts
 Access Plus
