@@ -31,7 +31,7 @@ You are invited to contribute to this collection of toolkit, reports, papers and
 
 Other resources:
 * [Project Tasks](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true)
-* [Events]()
+* [Activities and Events](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/Activities%20and%20Events)
 * [Project Code of Conduct](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/CODE_OF_CONDUCT.md)
 * [Project maintenance](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/MAINTENANCE.md)
 
