@@ -27,7 +27,7 @@ There are over 40 languages spoken in Uganda and over 140 spoken in East and Cen
 ## Resources and how you can contribute
 Please take a look our [Open Canvas](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/Open%20Canvas%20-%20UA%20in%20Uganda%20(Feb%202021).pdf) to give you an overview of the project. 
 
-You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](). 
+You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](https://github.com/MsKiden/universal-acceptance-project-uganda/tree/main/Resources). 
 
 ## About Us and Contacts
 [Access Plus](https://accesspluss.org/) is a Ugandan based organisation that aims at improving livelihoods by promoting inclusive access to and use of Information and Communication Technologies (ICTs) and the Internet to contribute to solving economic barriers. We do this by improving access to knowledge, information exchange and building technical capacity to use these technologies.  
