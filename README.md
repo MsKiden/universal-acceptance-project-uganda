@@ -29,6 +29,14 @@ Please take a look our [Open Canvas](https://github.com/MsKiden/universal-accept
 
 You are invited to contribute to this collection of toolkit, reports, papers and other resources from indivdduals, ICANN and other organisations. We are currently collected them in this [resources folder](https://github.com/MsKiden/universal-acceptance-project-uganda/tree/main/Resources). 
 
+Other resources:
+* [Project Tasks](https://github.com/MsKiden/universal-acceptance-project-uganda/projects/1?fullscreen=true)
+* [Events]()
+* [Project Code of Conduct](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/CODE_OF_CONDUCT.md)
+* [Project maintenance](https://github.com/MsKiden/universal-acceptance-project-uganda/blob/main/MAINTENANCE.md)
+
+The project is licensed under the MIT license for software/code related content and Creative Commons Attribution 4.0 International (CC-BY 4.0) for non-software/code related content. See details [here](https://github.com/MsKiden/universal-acceptance-project-uganda/edit/main/LICENSE).
+
 ## About Us and Contacts
 [Access Plus](https://accesspluss.org/) is a Ugandan based organisation that aims at improving livelihoods by promoting inclusive access to and use of Information and Communication Technologies (ICTs) and the Internet to contribute to solving economic barriers. We do this by improving access to knowledge, information exchange and building technical capacity to use these technologies.  
 
